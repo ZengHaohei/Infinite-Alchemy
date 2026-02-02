@@ -2,6 +2,7 @@
 
 ### A Decentralized Paradigm for Extreme High-Throughput Matter Evolution
 
+*It seems the party has started. Who's still left out?*
 ![Screenshot_20260201_195050](https://github.com/user-attachments/assets/4a2cd7e8-01e1-494d-af88-e3ed24636aec)
 
 
@@ -72,7 +73,7 @@ I didn't do precision math. I figured if the scan range is wide enough, it will 
 
 By using the centrifugal force for pressure and a heat source for a temperature gradient, we are essentially laying out a **continuous, gapless path** of every possible  (Temperature) and  (Pressure) combination along the axis of the pipe.
 
-**My Question to the 68 Experimenters:**
+**My Question to the 81 Experimenters:**
 If you load the LK-99 precursor into this 500 CNY scanner, **doesn't the reaction *have* to pass through the optimal phase point?**
 
 * In a 15cm pipe, if the "Superconducting Phase" exists at say  and , that exact condition **must** exist at some precise millimeter along your gradient.
@@ -318,7 +319,7 @@ Please proceed with your discussions in confidence. After all, the landscape of 
 
 利用离心力产生压强梯度，利用热源产生温度梯度，我们本质上是在钢管的轴向上铺设了一条**全连续、无缝隙**的温压组合路径（ 与  的连续函数）。
 
-**我想问问那 68 位克隆方案的朋友：**
+**我想问问那 81 位克隆方案的朋友：**
 如果你把 LK-99 的前驱原料塞进这个 500 块钱的扫描仪里，**反应难道不是“必然”会经过那个最优相点吗？**
 
 * 在一根 15 厘米长的钢管里，如果“超导相”存在于比如  和  个大气压下，那么这个精确的条件**必然**会存在于你梯度场中的某一个毫米处。
