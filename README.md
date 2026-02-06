@@ -99,6 +99,26 @@ Most researchers discard "failed" experiments as noise. In our protocol, **there
 **This is not an experiment that "might succeed."**
 **This is a physical actuator that "will inevitably produce complete data."**
 
+### Engineering Optimization Protocols
+
+1. High-Density Fluidic Pressure Amplification
+To transcend the mechanical limitations of standard steel and achieve GPa-level pressures, we move beyond dry powder compression.
+
+* **Liquid Piston Mechanism**: The reactor utilizes a high-density, low-melting-point alloy (e.g., Galinstan or Wood's metal) as a hydraulic transmission medium. Under high-speed rotation, the centrifugal force acts upon the liquid's mass, creating a uniform radial pressure gradient $P(r) = P_0 + \int \rho \omega^2 r dr$, effectively functioning as a "centrifugal diamond anvil cell".
+* **Composite Structural Reinforcement**: To prevent radial bursting (hoop stress failure), the steel pipes are overwrapped with high-modulus carbon fiber/epoxy resin. This pre-stressed "exoskeleton" allows the system to operate at RPMs far exceeding the yield strength of industrial steel.
+
+2. Cryogenic In-Situ Phase Trapping
+The primary risk in "Steel Pipe Alchemy" is the loss of metastable high-pressure phases upon deceleration.
+
+* **Isobaric Quenching System**: Integration of a secondary cooling circuit that injects liquid nitrogen or a cryogenic spray into the rotor assembly while rotation is maintained. This achieves an ultra-fast thermal drop, "freezing" the atomic lattice into an metastable state before centrifugal pressure is relieved.
+* **Real-time Impedance Mapping**: Instead of "post-mortem" analysis (cutting the pipe), we employ a multi-channel slip ring to transmit electrical signals from internal probes. This allows for the real-time detection of Meissner-effect-like transitions or resistance drops while the material is under active stress.
+
+3. Bayesian Inverse Mapping & Latent Space Exploration
+We treat every "failed" scan as a high-value constraint on the material's existence.
+
+* **Deterministic Coordinate Assignment**: Every cubic millimeter of the partitioned tube is assigned a high-precision ($(P, T, C)$) coordinate based on calculated centrifugal vectors and thermal conductivity modeling.
+* **Neural Network Inverse Deduction**: By feeding spectroscopic data from all 180 reaction zones into a centralized AI, we perform "Full-Domain Inverse Mapping". The AI learns the boundaries of the "Impossible Zones" (where materials do not exhibit target properties), mathematically forcing the discovery of the "Optimal Phase" (the target material) by eliminating the surrounding search space.
+
 ---
 
 **A Friendly Note on Our License**
@@ -346,6 +366,26 @@ Please proceed with your discussions in confidence. After all, the landscape of 
 
 **这不是一个“可能成功”的实验。**
 **这是一个“必然产生完整数据”的物理执行器。**
+
+### 工程优化协议
+
+1. 高密度流体压强放大技术
+为了突破普通钢材的机械极限并达到 GPa 级压强，我们必须超越干粉压缩模型。
+
+* **液态活塞机制**：反应器采用高密度、低熔点合金（如镓铟合金或伍德合金）作为液压传导介质。在高速旋转下，离心力作用于液态金属质量，产生均匀的径向压强梯度 $P(r) = P_0 + \int \rho \omega^2 r dr$，其效果等同于“离心式金刚石压砧”。
+* **复合材料结构增强**：为防止径向爆裂（环向应力失效），钢管外侧缠绕高模量碳纤维/环氧树脂。这种预应力“外骨骼”允许系统在远超工业钢材屈服强度的转速下运行。
+
+2. 低温原位相捕获系统
+“钢管炼金”的主要风险在于减速时亚稳态高压相的消失。
+
+* **等压淬火系统**：集成二次冷却回路，在维持旋转的同时向转子组件注入液氮或低温喷雾。这实现了极速降温，在离心压力消失前将原子点阵“冻结”在亚稳态中。
+* **实时阻抗映射**：弃用“尸检式”分析（锯开钢管），改用多通道滑环从内部探针传输电信号。这允许在材料处于活性应力状态时，实时检测类迈斯纳效应或电阻跌落。
+
+3. 贝叶斯逆向映射与潜空间探索
+我们将每一次“失败”的扫描视为对物质存在可能性的高价值约束。
+
+* **确定性坐标分配**：基于离心矢量计算和热导率建模，为分区管内的每一立方毫米分配高精度的 $(P, T, C)$ 坐标。
+* **神经网络逆向演绎**：通过将全部 180 个反应区的光谱数据输入中心化 AI，执行“全域逆向映射”。AI 通过学习“不可能区域”（即不具备目标特性的区间）的边界，在数学上强制目标相（目标材料）在剩余的搜索空间中现身。
 
 ---
 
